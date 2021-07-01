@@ -6,6 +6,7 @@ Final Project for BU CS 523 - Deep Learning, Summer 1 '21
 - Alden Richter, prichter@bu.edu
 
 ## Colab Link
+Cells commented out or marked optional may be skipped
 https://colab.research.google.com/drive/1UcZsNWX-xWUN8h82T03fHzm_3IZs5uqL?usp=sharing
 
 ## Project Slides
