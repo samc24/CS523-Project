@@ -5,6 +5,9 @@ Final Project for BU CS 523 - Deep Learning, Summer 1 '21
 - Sameer Chaturvedi, sameerc@bu.edu
 - Alden Richter, prichter@bu.edu
 
+## Colab Link
+https://colab.research.google.com/drive/1UcZsNWX-xWUN8h82T03fHzm_3IZs5uqL?usp=sharing
+
 ## Project Slides
 https://docs.google.com/presentation/d/1xALE0T55ANndAwplZlt_u4QkjJrjTRx_R29S2QwcHYo/edit?usp=sharing 
 
