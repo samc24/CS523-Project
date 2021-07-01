@@ -8,8 +8,10 @@ Final Project for BU CS 523 - Deep Learning, Summer 1 '21
 ## Project Slides
 https://docs.google.com/presentation/d/1xALE0T55ANndAwplZlt_u4QkjJrjTRx_R29S2QwcHYo/edit?usp=sharing 
 
+## Main Reference Paper
+https://arxiv.org/pdf/2004.10934.pdf  
+
 ## Helpful Links
-- https://arxiv.org/pdf/2004.10934.pdf  
 - https://github.com/AlexeyAB/darknet 
 - https://towardsdatascience.com/yolo-v4-optimal-speed-accuracy-for-object-detection-79896ed47b50 
 - https://www.youtube.com/watch?v=_JzOFWx1vZg 
